@@ -4,6 +4,7 @@ import { Hero } from "@/components/landing/Hero";
 import { Stats } from "@/components/landing/Stats";
 import { Features } from "@/components/landing/Features";
 import { BeforeAfter } from "@/components/landing/BeforeAfter";
+import { WorldMap } from "@/components/landing/WorldMap";
 import { LiveFeed } from "@/components/landing/LiveFeed";
 import { Testimonials } from "@/components/landing/Testimonials";
 import { Pricing } from "@/components/landing/Pricing";
@@ -18,6 +19,7 @@ export default function HomePage() {
       <Stats />
       <Features />
       <BeforeAfter />
+      <WorldMap />
       <LiveFeed />
       <Testimonials />
       <Pricing />
