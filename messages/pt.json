@@ -1,0 +1,165 @@
+{
+  "brand": {
+    "name": "BLACKLINK AI",
+    "tagline": "Construa Autoridade. Seja Visível. Seja Contratado."
+  },
+  "nav": {
+    "product": "Produto",
+    "features": "Recursos",
+    "pricing": "Preços",
+    "faq": "FAQ",
+    "login": "Entrar",
+    "start": "Começar Grátis"
+  },
+  "hero": {
+    "eyebrow": "Crescimento Profissional com IA",
+    "title": "O Futuro do Crescimento no LinkedIn.",
+    "subtitle": "Gere conteúdo viral, automatize sua autoridade e conecte-se com oportunidades globais — com IA.",
+    "ctaPrimary": "Começar Grátis",
+    "ctaSecondary": "Ver Demo",
+    "trust": "Confiado por profissionais em 120+ países"
+  },
+  "stats": {
+    "professionals": "Profissionais",
+    "posts": "Posts Gerados",
+    "countries": "Países",
+    "engagement": "Engajamento Médio",
+    "jobs": "Vagas Conectadas"
+  },
+  "features": {
+    "title": "Um time de crescimento inteiro, automatizado.",
+    "subtitle": "Cada sinal que o LinkedIn premia — conteúdo, consistência, hooks, hashtags — entregue por IA.",
+    "items": {
+      "generator": {
+        "title": "Gerador de Posts com IA",
+        "desc": "Hooks virais, storytelling e CTAs no seu tom, todos os dias."
+      },
+      "scheduler": {
+        "title": "Agendador Inteligente",
+        "desc": "A IA escolhe o melhor horário, hashtags e formato."
+      },
+      "analytics": {
+        "title": "Analytics Profissional",
+        "desc": "Impressões, visitas de recrutadores, conversões e viral score."
+      },
+      "branding": {
+        "title": "Otimizador de Perfil",
+        "desc": "Headline, bio, banner e skills reescritos para autoridade."
+      },
+      "jobs": {
+        "title": "Radar de Oportunidades",
+        "desc": "IA encontra vagas e recrutadores alinhados com você."
+      },
+      "agency": {
+        "title": "Modo Agência",
+        "desc": "Gerencie várias contas, clientes e campanhas."
+      }
+    }
+  },
+  "pricing": {
+    "title": "Preços simples e escaláveis.",
+    "subtitle": "Comece grátis. Faça upgrade quando crescer.",
+    "perMonth": "/mês",
+    "popular": "Mais Popular",
+    "cta": "Começar",
+    "free": {
+      "name": "Starter",
+      "price": "R$10",
+      "items": ["5 posts de IA por dia", "Templates básicos", "Agendamento limitado", "Multi-idioma"]
+    },
+    "pro": {
+      "name": "Pro",
+      "price": "R$79",
+      "items": ["Posts ilimitados", "Engine de hashtags IA", "Imagens IA", "Agendamento inteligente", "Recrutadores"]
+    },
+    "enterprise": {
+      "name": "Elite",
+      "price": "R$129",
+      "items": ["Dashboard de agência", "Múltiplas contas", "Automação anti-ban", "Dashboard de afiliado", "Acesso à API"]
+    }
+  },
+  "faq": {
+    "title": "Perguntas, respondidas.",
+    "items": [
+      {
+        "q": "É seguro para minha conta do LinkedIn?",
+        "a": "Sim. Usamos OAuth oficial e nunca armazenamos sua senha. Posts vão ao ar com sua permissão."
+      },
+      {
+        "q": "Quais modelos de IA?",
+        "a": "Google Gemini e OpenAI, com roteamento de prompts para qualidade e custo."
+      },
+      {
+        "q": "Posso cancelar quando quiser?",
+        "a": "A qualquer momento. Stripe cuida da cobrança e você usa até o fim do período."
+      },
+      {
+        "q": "Suporta outros idiomas?",
+        "a": "EN, PT, ES, DE, RU, HI e FR com troca instantânea."
+      }
+    ]
+  },
+  "auth": {
+    "loginTitle": "Bem-vindo de volta.",
+    "loginSubtitle": "Sua autoridade está a um clique.",
+    "registerTitle": "Crie sua conta.",
+    "registerSubtitle": "Construa autoridade. Seja contratado.",
+    "email": "E-mail",
+    "password": "Senha",
+    "confirmPassword": "Confirmar Senha",
+    "username": "Usuário",
+    "country": "País",
+    "language": "Idioma Preferido",
+    "terms": "Aceito os Termos e Condições",
+    "login": "Entrar",
+    "register": "Criar Conta",
+    "linkedin": "Continuar com LinkedIn",
+    "google": "Continuar com Google",
+    "github": "Continuar com GitHub",
+    "noAccount": "Não tem conta?",
+    "haveAccount": "Já tem conta?",
+    "signUp": "Cadastrar",
+    "signIn": "Entrar",
+    "left": {
+      "f1": "O Futuro do Crescimento Profissional",
+      "f2": "Automação de LinkedIn com IA",
+      "f3": "Construa Autoridade Automaticamente",
+      "f4": "Mais de 1 Milhão de Profissionais"
+    }
+  },
+  "dashboard": {
+    "greeting": "Bem-vindo de volta",
+    "subtitle": "Seu pulso de autoridade hoje.",
+    "cards": {
+      "posts": "Posts Totais",
+      "growth": "Crescimento",
+      "followers": "Seguidores",
+      "engagement": "Engajamento",
+      "jobs": "Oportunidades",
+      "ai": "Sugestões IA"
+    },
+    "nav": {
+      "dashboard": "Dashboard",
+      "generator": "Gerador IA",
+      "analytics": "Analytics",
+      "scheduler": "Agendador",
+      "messages": "Mensagens",
+      "branding": "Branding",
+      "affiliate": "Afiliados",
+      "settings": "Configurações",
+      "billing": "Cobrança"
+    },
+    "feed": {
+      "title": "Atividade ao Vivo",
+      "empty": "Nada ainda. Gere seu primeiro post."
+    },
+    "cta": {
+      "generate": "Gerar Post",
+      "schedule": "Agendar"
+    }
+  },
+  "footer": {
+    "rights": "Todos os direitos reservados.",
+    "made": "Feito em São Paulo, Brasil."
+  }
+}

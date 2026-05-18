@@ -1,0 +1,64 @@
+{
+  "brand": { "name": "BLACKLINK AI", "tagline": "Bâtissez l'autorité. Soyez visible. Soyez recruté." },
+  "nav": { "product": "Produit", "features": "Fonctions", "pricing": "Tarifs", "faq": "FAQ", "login": "Connexion", "start": "Commencer" },
+  "hero": {
+    "eyebrow": "Croissance Pro avec IA",
+    "title": "Le Futur de la Croissance LinkedIn.",
+    "subtitle": "Créez du contenu viral, automatisez votre autorité et connectez-vous à des opportunités mondiales — avec l'IA.",
+    "ctaPrimary": "Commencer gratuitement", "ctaSecondary": "Voir la démo",
+    "trust": "Approuvé dans plus de 120 pays"
+  },
+  "stats": { "professionals": "Professionnels", "posts": "Publications", "countries": "Pays", "engagement": "Engagement moyen", "jobs": "Emplois connectés" },
+  "features": {
+    "title": "Toute une équipe de croissance, automatisée.",
+    "subtitle": "Chaque signal récompensé par LinkedIn — géré par l'IA.",
+    "items": {
+      "generator": { "title": "Générateur de Posts IA", "desc": "Hooks viraux, storytelling et CTA dans votre ton." },
+      "scheduler": { "title": "Planificateur Intelligent", "desc": "L'IA choisit l'heure, les hashtags et le format." },
+      "analytics": { "title": "Analytics Pro", "desc": "Impressions, vues recruteurs, conversions, viral score." },
+      "branding": { "title": "Optimiseur de Profil", "desc": "Headline, bio, bannière et compétences pour l'autorité." },
+      "jobs": { "title": "Radar d'Opportunités", "desc": "L'IA trouve les rôles et recruteurs alignés." },
+      "agency": { "title": "Mode Agence", "desc": "Gérez plusieurs comptes et campagnes." }
+    }
+  },
+  "pricing": {
+    "title": "Tarifs simples et évolutifs.", "subtitle": "Commencez gratuitement.",
+    "perMonth": "/mois", "popular": "Populaire", "cta": "Démarrer",
+    "free": { "name": "Starter", "price": "2 €", "items": ["5 posts IA/jour", "Templates basiques", "Planification limitée", "Multi-langue"] },
+    "pro": { "name": "Pro", "price": "15 €", "items": ["Posts illimités", "Hashtags IA", "Images IA", "Planification intelligente", "Recruteurs"] },
+    "enterprise": { "name": "Elite", "price": "25 €", "items": ["Dashboard agence", "Multi-comptes", "Anti-ban", "Affiliés", "API"] }
+  },
+  "faq": {
+    "title": "Questions, réponses.",
+    "items": [
+      { "q": "Est-ce sûr pour mon LinkedIn ?", "a": "Oui. OAuth officiel, aucun mot de passe stocké." },
+      { "q": "Quels modèles IA ?", "a": "Gemini et OpenAI." },
+      { "q": "Annulation possible ?", "a": "À tout moment via Stripe." },
+      { "q": "Autres langues ?", "a": "EN, PT, ES, DE, RU, HI et FR." }
+    ]
+  },
+  "auth": {
+    "loginTitle": "Bon retour.", "loginSubtitle": "Votre autorité à un clic.",
+    "registerTitle": "Créez votre compte.", "registerSubtitle": "Bâtissez l'autorité. Soyez recruté.",
+    "email": "Email", "password": "Mot de passe", "confirmPassword": "Confirmer le mot de passe",
+    "username": "Nom d'utilisateur", "country": "Pays", "language": "Langue",
+    "terms": "J'accepte les conditions",
+    "login": "Connexion", "register": "Créer un compte",
+    "linkedin": "Continuer avec LinkedIn", "google": "Continuer avec Google", "github": "Continuer avec GitHub",
+    "noAccount": "Pas de compte ?", "haveAccount": "Déjà un compte ?", "signUp": "S'inscrire", "signIn": "Se connecter",
+    "left": {
+      "f1": "Le Futur de la Croissance Pro",
+      "f2": "Automatisation LinkedIn par IA",
+      "f3": "Bâtissez votre autorité automatiquement",
+      "f4": "Plus d'1 million de pros"
+    }
+  },
+  "dashboard": {
+    "greeting": "Bon retour", "subtitle": "Votre pouls d'autorité aujourd'hui.",
+    "cards": { "posts": "Posts totaux", "growth": "Croissance", "followers": "Abonnés", "engagement": "Engagement", "jobs": "Opportunités", "ai": "Suggestions IA" },
+    "nav": { "dashboard": "Dashboard", "generator": "Générateur IA", "analytics": "Analytics", "scheduler": "Planificateur", "messages": "Messages", "branding": "Branding", "affiliate": "Affiliés", "settings": "Paramètres", "billing": "Facturation" },
+    "feed": { "title": "Activité en direct", "empty": "Aucune activité." },
+    "cta": { "generate": "Générer", "schedule": "Planifier" }
+  },
+  "footer": { "rights": "Tous droits réservés.", "made": "Conçu à São Paulo, Brésil." }
+}

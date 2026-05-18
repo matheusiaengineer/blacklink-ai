@@ -1,0 +1,70 @@
+{
+  "brand": { "name": "BLACKLINK AI", "tagline": "Construye Autoridad. Sé Visible. Sé Contratado." },
+  "nav": { "product": "Producto", "features": "Funciones", "pricing": "Precios", "faq": "FAQ", "login": "Entrar", "start": "Empezar Gratis" },
+  "hero": {
+    "eyebrow": "Crecimiento Profesional con IA",
+    "title": "El Futuro del Crecimiento en LinkedIn.",
+    "subtitle": "Genera contenido viral, automatiza tu autoridad y conecta con oportunidades globales — con IA.",
+    "ctaPrimary": "Empezar Gratis",
+    "ctaSecondary": "Ver Demo",
+    "trust": "Profesionales en más de 120 países confían en nosotros"
+  },
+  "stats": { "professionals": "Profesionales", "posts": "Publicaciones", "countries": "Países", "engagement": "Interacción Promedio", "jobs": "Empleos Conectados" },
+  "features": {
+    "title": "Un equipo de crecimiento entero, automatizado.",
+    "subtitle": "Cada señal que LinkedIn premia, gestionada por IA.",
+    "items": {
+      "generator": { "title": "Generador de Posts IA", "desc": "Hooks virales, storytelling y CTAs en tu tono, cada día." },
+      "scheduler": { "title": "Programador Inteligente", "desc": "La IA elige el mejor horario, hashtags y formato." },
+      "analytics": { "title": "Analytics Profesional", "desc": "Impresiones, vistas de reclutadores, conversiones y viral score." },
+      "branding": { "title": "Optimizador de Perfil", "desc": "Headline, bio, banner y skills reescritos para autoridad." },
+      "jobs": { "title": "Radar de Oportunidades", "desc": "La IA descubre roles y reclutadores alineados." },
+      "agency": { "title": "Modo Agencia", "desc": "Gestiona varias cuentas, clientes y campañas." }
+    }
+  },
+  "pricing": {
+    "title": "Precios simples y escalables.",
+    "subtitle": "Empieza gratis. Sube de plan cuando crezcas.",
+    "perMonth": "/mes",
+    "popular": "Más Popular",
+    "cta": "Empezar",
+    "free": { "name": "Starter", "price": "$2", "items": ["5 posts IA/día", "Plantillas básicas", "Programación limitada", "Multi-idioma"] },
+    "pro": { "name": "Pro", "price": "$15", "items": ["Posts ilimitados", "Hashtags IA", "Imágenes IA", "Programación inteligente", "Reclutadores"] },
+    "enterprise": { "name": "Elite", "price": "$25", "items": ["Dashboard agencia", "Multi-cuentas", "Anti-ban", "Afiliados", "API"] }
+  },
+  "faq": {
+    "title": "Preguntas, respondidas.",
+    "items": [
+      { "q": "¿Es seguro para mi cuenta de LinkedIn?", "a": "Sí. Usamos OAuth oficial y nunca guardamos tu contraseña." },
+      { "q": "¿Qué modelos de IA?", "a": "Google Gemini y OpenAI con enrutamiento inteligente." },
+      { "q": "¿Puedo cancelar cuando quiera?", "a": "Cuando quieras. Stripe gestiona la facturación." },
+      { "q": "¿Soporta más idiomas?", "a": "EN, PT, ES, DE, RU, HI y FR con cambio instantáneo." }
+    ]
+  },
+  "auth": {
+    "loginTitle": "Bienvenido de nuevo.",
+    "loginSubtitle": "Tu autoridad a un clic.",
+    "registerTitle": "Crea tu cuenta.",
+    "registerSubtitle": "Construye autoridad. Sé contratado.",
+    "email": "Email", "password": "Contraseña", "confirmPassword": "Confirmar Contraseña",
+    "username": "Usuario", "country": "País", "language": "Idioma Preferido",
+    "terms": "Acepto los Términos y Condiciones",
+    "login": "Entrar", "register": "Crear Cuenta",
+    "linkedin": "Continuar con LinkedIn", "google": "Continuar con Google", "github": "Continuar con GitHub",
+    "noAccount": "¿Sin cuenta?", "haveAccount": "¿Ya tienes cuenta?", "signUp": "Regístrate", "signIn": "Entrar",
+    "left": {
+      "f1": "El Futuro del Crecimiento Profesional",
+      "f2": "Automatización de LinkedIn con IA",
+      "f3": "Construye Autoridad Automáticamente",
+      "f4": "Más de 1 Millón de Profesionales"
+    }
+  },
+  "dashboard": {
+    "greeting": "Bienvenido", "subtitle": "Tu pulso de autoridad hoy.",
+    "cards": { "posts": "Posts Totales", "growth": "Crecimiento", "followers": "Seguidores", "engagement": "Interacción", "jobs": "Oportunidades", "ai": "Sugerencias IA" },
+    "nav": { "dashboard": "Dashboard", "generator": "Generador IA", "analytics": "Analytics", "scheduler": "Programador", "messages": "Mensajes", "branding": "Branding", "affiliate": "Afiliados", "settings": "Ajustes", "billing": "Facturación" },
+    "feed": { "title": "Actividad en Vivo", "empty": "Aún sin actividad." },
+    "cta": { "generate": "Generar", "schedule": "Programar" }
+  },
+  "footer": { "rights": "Todos los derechos reservados.", "made": "Hecho en São Paulo, Brasil." }
+}

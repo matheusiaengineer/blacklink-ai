@@ -1,0 +1,64 @@
+{
+  "brand": { "name": "BLACKLINK AI", "tagline": "Autorität aufbauen. Sichtbar sein. Eingestellt werden." },
+  "nav": { "product": "Produkt", "features": "Funktionen", "pricing": "Preise", "faq": "FAQ", "login": "Anmelden", "start": "Kostenlos starten" },
+  "hero": {
+    "eyebrow": "KI Berufliches Wachstum",
+    "title": "Die Zukunft des LinkedIn-Wachstums.",
+    "subtitle": "Virale Inhalte erstellen, Autorität automatisieren, weltweit Chancen nutzen — mit KI.",
+    "ctaPrimary": "Kostenlos starten", "ctaSecondary": "Demo ansehen",
+    "trust": "Vertraut von Profis in über 120 Ländern"
+  },
+  "stats": { "professionals": "Profis", "posts": "Erstellte Posts", "countries": "Länder", "engagement": "Ø Engagement", "jobs": "Jobs verbunden" },
+  "features": {
+    "title": "Ein ganzes Wachstumsteam, automatisiert.",
+    "subtitle": "Jedes Signal, das LinkedIn belohnt — von KI gesteuert.",
+    "items": {
+      "generator": { "title": "KI Post Generator", "desc": "Virale Hooks, Storytelling und CTAs in deinem Ton." },
+      "scheduler": { "title": "Smart Scheduler", "desc": "KI wählt Zeit, Hashtags und Format." },
+      "analytics": { "title": "Profi Analytics", "desc": "Impressionen, Recruiter-Aufrufe, Konversionen, Viral Score." },
+      "branding": { "title": "Profil-Optimierer", "desc": "Headline, Bio, Banner und Skills neu für Autorität." },
+      "jobs": { "title": "Chancen-Radar", "desc": "KI findet passende Rollen und Recruiter." },
+      "agency": { "title": "Agentur-Modus", "desc": "Mehrere Konten, Kunden und Kampagnen verwalten." }
+    }
+  },
+  "pricing": {
+    "title": "Einfache, skalierbare Preise.", "subtitle": "Kostenlos starten. Upgraden, wenn du wächst.",
+    "perMonth": "/Mo", "popular": "Beliebt", "cta": "Loslegen",
+    "free": { "name": "Starter", "price": "$2", "items": ["5 KI-Posts/Tag", "Basic Templates", "Limitierte Planung", "Mehrsprachig"] },
+    "pro": { "name": "Pro", "price": "$15", "items": ["Unbegrenzte Posts", "KI-Hashtags", "KI-Bilder", "Smart Scheduling", "Recruiter"] },
+    "enterprise": { "name": "Elite", "price": "$25", "items": ["Agentur-Dashboard", "Mehrere Konten", "Anti-Ban", "Affiliates", "API"] }
+  },
+  "faq": {
+    "title": "Fragen, beantwortet.",
+    "items": [
+      { "q": "Sicher für mein LinkedIn-Konto?", "a": "Ja. Wir nutzen offizielles OAuth und speichern keine Passwörter." },
+      { "q": "Welche KI-Modelle?", "a": "Gemini und OpenAI mit intelligentem Routing." },
+      { "q": "Jederzeit kündigen?", "a": "Jederzeit. Stripe verwaltet die Abrechnung." },
+      { "q": "Andere Sprachen?", "a": "EN, PT, ES, DE, RU, HI und FR mit Live-Wechsel." }
+    ]
+  },
+  "auth": {
+    "loginTitle": "Willkommen zurück.", "loginSubtitle": "Autorität nur einen Klick entfernt.",
+    "registerTitle": "Konto erstellen.", "registerSubtitle": "Autorität aufbauen. Eingestellt werden.",
+    "email": "E-Mail", "password": "Passwort", "confirmPassword": "Passwort bestätigen",
+    "username": "Benutzername", "country": "Land", "language": "Sprache",
+    "terms": "Ich akzeptiere die AGB",
+    "login": "Anmelden", "register": "Konto erstellen",
+    "linkedin": "Weiter mit LinkedIn", "google": "Weiter mit Google", "github": "Weiter mit GitHub",
+    "noAccount": "Kein Konto?", "haveAccount": "Schon ein Konto?", "signUp": "Registrieren", "signIn": "Anmelden",
+    "left": {
+      "f1": "Die Zukunft beruflichen Wachstums",
+      "f2": "KI-LinkedIn-Automatisierung",
+      "f3": "Autorität automatisch aufbauen",
+      "f4": "Mehr als 1 Million Profis"
+    }
+  },
+  "dashboard": {
+    "greeting": "Willkommen zurück", "subtitle": "Dein Autoritäts-Puls heute.",
+    "cards": { "posts": "Posts gesamt", "growth": "Wachstum", "followers": "Follower", "engagement": "Engagement", "jobs": "Chancen", "ai": "KI-Vorschläge" },
+    "nav": { "dashboard": "Dashboard", "generator": "KI-Generator", "analytics": "Analytics", "scheduler": "Scheduler", "messages": "Nachrichten", "branding": "Branding", "affiliate": "Affiliate", "settings": "Einstellungen", "billing": "Abrechnung" },
+    "feed": { "title": "Live-Aktivität", "empty": "Noch keine Aktivität." },
+    "cta": { "generate": "Generieren", "schedule": "Planen" }
+  },
+  "footer": { "rights": "Alle Rechte vorbehalten.", "made": "Gefertigt in São Paulo, Brasilien." }
+}

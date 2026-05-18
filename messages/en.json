@@ -1,0 +1,177 @@
+{
+  "brand": {
+    "name": "BLACKLINK AI",
+    "tagline": "Build Authority. Become Visible. Get Hired."
+  },
+  "nav": {
+    "product": "Product",
+    "features": "Features",
+    "pricing": "Pricing",
+    "faq": "FAQ",
+    "login": "Login",
+    "start": "Start Free"
+  },
+  "hero": {
+    "eyebrow": "AI Professional Growth",
+    "title": "The Future Of LinkedIn Growth.",
+    "subtitle": "Generate viral content, automate your authority and connect with global opportunities — powered by AI.",
+    "ctaPrimary": "Start Free",
+    "ctaSecondary": "Watch Demo",
+    "trust": "Trusted by professionals in 120+ countries"
+  },
+  "stats": {
+    "professionals": "Professionals",
+    "posts": "Posts Generated",
+    "countries": "Countries",
+    "engagement": "Avg. Engagement",
+    "jobs": "Jobs Connected"
+  },
+  "features": {
+    "title": "An entire growth team, automated.",
+    "subtitle": "Every signal LinkedIn rewards — content, consistency, hooks, hashtags — handled by AI.",
+    "items": {
+      "generator": {
+        "title": "AI Post Generator",
+        "desc": "Viral hooks, storytelling and CTAs in your tone, every day."
+      },
+      "scheduler": {
+        "title": "Smart Scheduler",
+        "desc": "AI picks the best time, hashtags and format for each post."
+      },
+      "analytics": {
+        "title": "Bloomberg-grade Analytics",
+        "desc": "Track impressions, recruiter views, conversions and viral score."
+      },
+      "branding": {
+        "title": "Profile Optimizer",
+        "desc": "Headline, bio, banner and skills — rewritten for authority."
+      },
+      "jobs": {
+        "title": "Opportunity Radar",
+        "desc": "AI surfaces aligned roles and recruiters before they trend."
+      },
+      "agency": {
+        "title": "Agency Mode",
+        "desc": "Manage multiple LinkedIn accounts, clients and campaigns."
+      }
+    }
+  },
+  "pricing": {
+    "title": "Simple, scalable pricing.",
+    "subtitle": "Start free. Upgrade when you outgrow it.",
+    "perMonth": "/mo",
+    "popular": "Most Popular",
+    "cta": "Get Started",
+    "free": {
+      "name": "Starter",
+      "price": "$2",
+      "items": ["5 AI posts daily", "Basic templates", "Limited scheduling", "Multi-language"]
+    },
+    "pro": {
+      "name": "Pro",
+      "price": "$15",
+      "items": [
+        "Unlimited AI posts",
+        "AI hashtag engine",
+        "AI image generation",
+        "Smart scheduling",
+        "Recruiter targeting"
+      ]
+    },
+    "enterprise": {
+      "name": "Elite",
+      "price": "$25",
+      "items": [
+        "Agency dashboard",
+        "Multiple accounts",
+        "Anti-ban automation",
+        "Affiliate dashboard",
+        "API access"
+      ]
+    }
+  },
+  "faq": {
+    "title": "Questions, answered.",
+    "items": [
+      {
+        "q": "Is BLACKLINK AI safe for my LinkedIn account?",
+        "a": "Yes. We use official LinkedIn OAuth and never store your password. Posts are published with your explicit permission."
+      },
+      {
+        "q": "Which AI models power the platform?",
+        "a": "Google Gemini and OpenAI under the hood, with intelligent prompt routing to optimize quality and cost."
+      },
+      {
+        "q": "Can I cancel anytime?",
+        "a": "Anytime. Stripe handles billing and you keep access until the end of your current period."
+      },
+      {
+        "q": "Do you support languages other than English?",
+        "a": "EN, PT, ES, DE, RU, HI and FR — with live language switching."
+      }
+    ]
+  },
+  "auth": {
+    "loginTitle": "Welcome back.",
+    "loginSubtitle": "Authority is one click away.",
+    "registerTitle": "Create your account.",
+    "registerSubtitle": "Build your authority. Get hired.",
+    "email": "Email",
+    "password": "Password",
+    "confirmPassword": "Confirm Password",
+    "username": "Username",
+    "country": "Country",
+    "language": "Preferred Language",
+    "terms": "I accept the Terms & Conditions",
+    "login": "Login",
+    "register": "Create Account",
+    "linkedin": "Continue with LinkedIn",
+    "google": "Continue with Google",
+    "github": "Continue with GitHub",
+    "noAccount": "No account?",
+    "haveAccount": "Already have an account?",
+    "signUp": "Sign up",
+    "signIn": "Sign in",
+    "left": {
+      "f1": "The Future Of Professional Growth",
+      "f2": "AI Powered LinkedIn Automation",
+      "f3": "Build Authority Automatically",
+      "f4": "More Than 1 Million Professionals"
+    }
+  },
+  "dashboard": {
+    "greeting": "Welcome back",
+    "subtitle": "Here is your authority pulse for today.",
+    "cards": {
+      "posts": "Total Posts",
+      "growth": "Profile Growth",
+      "followers": "Followers",
+      "engagement": "Engagement",
+      "jobs": "Job Opportunities",
+      "ai": "AI Suggestions"
+    },
+    "nav": {
+      "dashboard": "Dashboard",
+      "generator": "AI Generator",
+      "analytics": "Analytics",
+      "scheduler": "Scheduler",
+      "messages": "Messages",
+      "branding": "Branding",
+      "affiliate": "Affiliate",
+      "settings": "Settings",
+      "billing": "Billing"
+    },
+    "feed": {
+      "title": "Live Activity",
+      "empty": "No activity yet. Generate your first post."
+    },
+    "cta": {
+      "generate": "Generate Post",
+      "schedule": "Schedule"
+    }
+  },
+  "footer": {
+    "rights": "All rights reserved.",
+    "made": "Crafted in São Paulo, Brazil."
+  }
+}
