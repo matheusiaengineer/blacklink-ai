@@ -17,7 +17,8 @@ import {
   Target,
   Trophy,
   Users,
-  Zap
+  Zap,
+  Cpu
 } from "lucide-react";
 import { Logo } from "@/components/brand/Logo";
 import { cn } from "@/lib/utils";
@@ -50,6 +51,7 @@ const NAV = [
       { href: "/dashboard/achievements", icon: Trophy, key: "achievements", label: "Achievements" },
       { href: "/dashboard/affiliate", icon: Gift, key: "affiliate" },
       { href: "/dashboard/settings", icon: Settings, key: "settings" },
+      { href: "/dashboard/settings/providers", icon: Cpu, key: "providers", label: "AI Providers" },
       { href: "/dashboard/billing", icon: CreditCard, key: "billing" }
     ]
   }
